@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,EAAE;EACA,KAAK,EAHG,OAAO",
+"sources": ["scss/costomStyles.scss"],
+"names": [],
+"file": "costomStyles.css"
+}
